@@ -14,7 +14,7 @@ export default function Navbar() {
     <div>
       <nav className="navbar navbar-expand-lg">
         <a className="navbar-brand" href="/">
-          SHEY SHOP
+          JB STORE
         </a>
         <button
           className="navbar-toggler"
